@@ -1,0 +1,27 @@
+{
+	"Database": {
+		"Host": "", 
+		"Name": "", 
+		"Password": "", 
+		"Port": 3306, 
+		"Type": "MYSQL", 
+		"Username": ""
+	}, 
+	"ErrorMessages": {
+		"InstanceError": "There was an error while trying to get an instance of Framework.",
+		"InvalidController": "The controller \":sController\" was not found."
+	},
+	"Queries": {
+		
+	}, 
+	"SystemSettings": {
+		"DefaultController": "index",
+		"DefaultErrorController": "error", 
+		"DefaultExtension": ".php", 
+		"DefaultLayout": "layout", 
+		"DefaultView": "index",
+		"ForceSSL": false,
+		"Namespace": "t(mb)^Framework", 
+		"SecretHash": ""
+	}
+}
